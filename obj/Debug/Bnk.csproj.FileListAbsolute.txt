@@ -1,0 +1,16 @@
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.csproj.AssemblyReference.cache
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.csproj.SuggestedBindingRedirects.cache
+D:\projects\Bnk\Bnk\obj\Debug\MainWindow.g.cs
+D:\projects\Bnk\Bnk\obj\Debug\App.g.cs
+D:\projects\Bnk\Bnk\obj\Debug\Bnk_MarkupCompile.cache
+D:\projects\Bnk\Bnk\obj\Debug\Bnk_MarkupCompile.lref
+D:\projects\Bnk\Bnk\bin\Debug\Bnk.exe.config
+D:\projects\Bnk\Bnk\bin\Debug\Bnk.exe
+D:\projects\Bnk\Bnk\bin\Debug\Bnk.pdb
+D:\projects\Bnk\Bnk\obj\Debug\MainWindow.baml
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.g.resources
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.Properties.Resources.resources
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.csproj.GenerateResource.cache
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.csproj.CoreCompileInputs.cache
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.exe
+D:\projects\Bnk\Bnk\obj\Debug\Bnk.pdb
